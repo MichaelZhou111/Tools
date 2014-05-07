@@ -1,0 +1,2 @@
+path=F:\ECS\branches\ECAP\version01\java\ECAP
+string=ÓÊ¼þ
